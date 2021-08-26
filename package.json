@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "School Manager est un projet qui vise à concevoir et réaliser un système fiable et intègre de gestion de scolarité dans un établissement d’école primaire et secondaire.",
+  "main": "server.js",
+  "scripts": {
+    "test": "schoolmanager"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericakemani/School_Manager.git"
+  },
+  "author": "erik akemani&aoci epili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericakemani/School_Manager/issues"
+  },
+  "homepage": "https://github.com/ericakemani/School_Manager#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
